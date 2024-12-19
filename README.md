@@ -1,3 +1,12 @@
+## License
+This project is licensed under the **Sherman G. Laing Proprietary License**.
+
+- **Usage**: Viewing and referencing this work is allowed for personal and academic purposes.
+- **Restrictions**: Any commercial use, modification, or distribution requires explicit permission.
+- **Attribution**: Proper credit must be given to Sherman G. Laing.
+
+For licensing inquiries, contact Sherman G. Laing at [your email].
+
 # Quantum Core
 
 Core quantum functionalities for Quantum Earth, including:
